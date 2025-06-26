@@ -193,11 +193,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Vite](https://vitejs.dev/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 - Inspired by binary clock enthusiasts worldwide
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub.
-
+ 
 ---
+made with bolt.new
 
 **Enjoy your binary time! ⏰**
